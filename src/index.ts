@@ -1,1 +1,3 @@
-console.log('node-TS-boilerplate');
+import { logPrimary } from './utils';
+
+logPrimary('node-TS-boilerplate');
